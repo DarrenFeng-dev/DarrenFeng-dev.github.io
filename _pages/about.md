@@ -107,7 +107,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Autonomous Vision-Based RC Car**](#)  
+[**Autonomous Vision-Based RC Car**](https://www.hackster.io/skyrover-team4/skyrover-a6f1b5)  
 **Role:** Embedded Engineer & Project Lead  
 **Location:** Houston, Texas, USA | **Mar 2025 – May 2025**  
 - Built a real-time lane detection and navigation system using **Raspberry Pi 4**, **OpenCV**, and a **PD controller**, achieving stable tracking within 160×120 resolution constraints.  
