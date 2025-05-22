@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Darren Feng"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile picture.png"
   bio              : "Rice University Master Student in Electrical and Computer Engineering"
   location         : "Houston, Texas, USA"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/DarrenFeng-dev"
   google_plus      :
   keybase          :
   instagram        :
