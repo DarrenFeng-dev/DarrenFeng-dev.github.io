@@ -79,9 +79,26 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 </div>
 
 
-# 🔬 Projects
-### 🚀 Projects
+# 🎖 Honors and Awards
+- *Sept 2024*  ECE Future Star Scholarship from George R. Brown School of Engineering and Computing, Rice University — **$18,000**. 
+- *Dec 2023*  Coffee Robot Master development funding — **¥200,000** awarded by WIK Group. 
+- *Dec 2022*  Third Prize of Craftsmanship for Outstanding Individual of SZTU in 2021-2022. 
+- *Jul 2022*  Silver Award in the SZTU Trials of the 2022 “Internet+” College Students Innovation and Entrepreneurship Competition. 
+- *Jun 2022* Third Prize in Guangdong Province of the 2022 National College Mechanical Innovation Competition. 
+- *Dec 2021* Second Prize of Craftsmanship for Outstanding Individual of SZTU. 
+- *Jun 2021* Bronze Award in the SZTU Trials of the 2021 “Internet+” College Students Innovation and Entrepreneurship Competition. 
+- *Dec 2020* Excellence Award in the 2020 SZTU Entrepreneurship Park Business Proposal Competition. 
 
+# 📖 Educations
+- *Aug 2024 - Dec 2025*, Master in Electrical and Computer Engineering, Rice University, Houston, TX, USA. 
+- *Sept 2020 - Jun 2024*, Bachelor in electronic science and technology, Shenzhen Technology University, Shenzhen, Guangdong, China. 
+
+# 💻 Internships
+- *May 2023 - Oct 2023*, Integration Process Engineer, Siemens Healthineers, Shenzhen, China.
+- *Nov 2020 - Jan 2021*, Research and Development Engineer, Shenzhen Wo'erchuang Technology Co., Ltd. Shenzhen, China.
+
+
+# 🔬 Projects
 <!-- Autonomous RC Car -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -153,23 +170,3 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 
   </div>
 </div>
-
-
-
-# 🎖 Honors and Awards
-- *Sept 2024*  ECE Future Star Scholarship from George R. Brown School of Engineering and Computing, Rice University — **$18,000**. 
-- *Dec 2023*  Coffee Robot Master development funding — **¥200,000** awarded by WIK Group. 
-- *Dec 2022*  Third Prize of Craftsmanship for Outstanding Individual of SZTU in 2021-2022. 
-- *Jul 2022*  Silver Award in the SZTU Trials of the 2022 “Internet+” College Students Innovation and Entrepreneurship Competition. 
-- *Jun 2022* Third Prize in Guangdong Province of the 2022 National College Mechanical Innovation Competition. 
-- *Dec 2021* Second Prize of Craftsmanship for Outstanding Individual of SZTU. 
-- *Jun 2021* Bronze Award in the SZTU Trials of the 2021 “Internet+” College Students Innovation and Entrepreneurship Competition. 
-- *Dec 2020* Excellence Award in the 2020 SZTU Entrepreneurship Park Business Proposal Competition. 
-
-# 📖 Educations
-- *Aug 2024 - Dec 2025*, Master in Electrical and Computer Engineering, Rice University, Houston, TX, USA. 
-- *Sept 2020 - Jun 2024*, Bachelor in electronic science and technology, Shenzhen Technology University, Shenzhen, Guangdong, China. 
-
-# 💻 Internships
-- *May 2023 - Oct 2023*, Integration Process Engineer, Siemens Healthineers, Shenzhen, China.
-- *Nov 2020 - Jan 2021*, Research and Development Engineer, Shenzhen Wo'erchuang Technology Co., Ltd. Shenzhen, China.
