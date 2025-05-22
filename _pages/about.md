@@ -25,7 +25,7 @@ My toolbox spans C/C++, Python, ROS, OpenCV, CUDA, STM32, Linux kernel modules, 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *March 2025*: &nbsp;🎉🎉 Partnered with The Floow on designing a next-generation platform for predictive health analytics and proactive illness prevention. 
 
 # 📝 Publications 
 
@@ -44,7 +44,7 @@ My toolbox spans C/C++, Python, ROS, OpenCV, CUDA, STM32, Linux kernel modules, 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *Sept 2024*  ECE Future Star Scholarship from George R. Brown School of Engineering, Rice University — $18,000. 
+- *Sept 2024*  ECE Future Star Scholarship from George R. Brown School of Engineering and Computing, Rice University — $18,000. 
 - *Dec 2023*  Coffee Robot Master development funding — ¥200,000 awarded by WIK Group. 
 - *Dec 2022*  Third Prize of Craftsmanship for Outstanding Individual of SZTU in 2021-2022. 
 - *Jul 2022*  Silver Award in the SZTU Trials of the 2022 “Internet+” College Students Innovation and Entrepreneurship Competition. 
