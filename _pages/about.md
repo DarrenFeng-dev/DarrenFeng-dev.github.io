@@ -22,7 +22,7 @@ redirect_from:
 Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electrical & Computer Engineering who loves turning cutting-edge algorithms into tangible robotic systems.
 
 <div class="about-me-content">
-    <p>My toolbox spans C/C++, Python, ROS, OpenCV, CUDA, STM32, Linux kernel modules, SPI/I²C/UART, and a healthy curiosity for anything involving sensors and real-time constraints. Whether it’s robotics, embedded AI, or GPU acceleration, I enjoy bridging the gap between elegant code and reliable hardware.</p>
+    <p>My toolbox spans **C/C++, Python, ROS, OpenCV, CUDA, STM32, Linux kernel modules, SPI/I²C/UART**, and a healthy curiosity for anything involving sensors and real-time constraints. Whether it’s robotics, embedded AI, or GPU acceleration, I enjoy bridging the gap between elegant code and reliable hardware.</p>
     <p>Current focus: applying embedded ML and edge computing to healthcare and assistive robotics. If you’d like to chat about collaborative projects, internships, or just geek out over motor controllers, feel free to reach out!</p>
 </div>
 
@@ -36,7 +36,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Patent</div>
-    <img src="images/ROPEHANDLE.png" alt="Patent Image" width="100%">
+    <img src="images/ROPEHANDLE.png" alt="Patent Image" width="75%">
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -51,7 +51,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Patent</div>
-    <img src="images/MOBILERobot.png" alt="Patent Image" width="100%">
+    <img src="images/MOBILERobot.png" alt="Patent Image" width="75%">
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -66,7 +66,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Patent</div>
-    <img src="images/LABORATORY.png" alt="Patent Image" width="100%">
+    <img src="images/LABORATORY.png" alt="Patent Image" width="75%">
   </div>
   <div class='paper-box-text' markdown="1">
 
