@@ -81,6 +81,79 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 
 # 🔬 Projects
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Project</div>
+    <img src="images/rc-car.png" alt="Autonomous RC Car" width="75%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Autonomous Vision-Based RC Car**](https://www.hackster.io/skyrover-team4/skyrover-a6f1b5)  
+**Role:** Embedded Software Engineer
+**Tools:** Raspberry Pi 4, OpenCV, YOLOv5, PD Controller  
+*Mar 2025 – May 2025*  
+- Built a real-time lane detection and navigation system using **Raspberry Pi 4**, **OpenCV**, and a **PD controller**, achieving stable tracking within 160×120 resolution constraints.  
+- Added HSV-based stop-box detection and **YOLOv5** for obstacle/traffic-light recognition.  
+- Integrated **GPIO motor control**, webcam, and optical encoder to synchronize perception and actuation.
+  </div>
+</div>
+
+
+<!-- CUDA Hole Compaction -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Project</div>
+    <img src="images/cuda.png" alt="CUDA Hole Compaction" width="75%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Data-Parallel Hole Compaction in CUDA**](#)  
+**Role:** Software Engineer  
+**Location:** Houston, Texas, USA | **Apr 2025 – May 2025**  
+- Designed a GPU-based hole-filling algorithm using **CUDA**, **shared memory**, and a recursive **Blelloch scan** to preserve data order in large arrays.  
+- Demonstrated up to **83× CPU speedup** on 400M-entry datasets with a three-stage `flag → scan → scatter` pipeline.  
+- Validated correctness and optimized memory efficiency for magnetic confinement fusion simulation data.
+
+  </div>
+</div>
+
+<!-- Robotic Coffee Master -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Project</div>
+    <img src="images/coffee-robot.png" alt="Robotic Coffee Master" width="75%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Robotic Coffee Master**](#)  
+**Role:** Embedded Software Engineer & Manager  
+**Location:** Shenzhen, Guangdong, China | **May 2022 – Sept 2022**  
+- Led the end-to-end development of a robotic barista using **Digital Twin (Real2Sim2Real)** methods to brew 4+ coffee types and draw 6+ latte-art patterns.  
+- Built a 6-DOF kinematics system in **Python + Panda3D**; delivered a live demo and secured **¥200K** in funding.  
+- As project manager, coordinated cross-functional teams, resolved integration issues, and ensured on-time delivery.
+
+  </div>
+</div>
+
+<!-- Portable Robotic Arm -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Project</div>
+    <img src="images/robotic-arm.png" alt="Robotic Arm Development" width="75%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Multi-Functional Portable Robotic Arm Development**](#)  
+**Role:** Embedded Engineer & Project Lead  
+**Location:** Shenzhen, Guangdong, China | **Oct 2023 – May 2024**  
+- Created a vision-enabled robotic arm using **C++**, **Python**, **OpenCV**, **PWM servo control**, **inverse kinematics**, and **PID regulation**.  
+- Simulated motion accuracy and stability in **3ds Max** and **Unity3D** prior to deployment.  
+- Designed a custom **PCB board** using SPI/I²C, with **Raspberry Pi** as coordinator and **STM32** for motor control.
+
+  </div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *Sept 2024*  ECE Future Star Scholarship from George R. Brown School of Engineering and Computing, Rice University — **$18,000**. 
 - *Dec 2023*  Coffee Robot Master development funding — **¥200,000** awarded by WIK Group. 
