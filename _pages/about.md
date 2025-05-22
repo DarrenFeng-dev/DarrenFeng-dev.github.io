@@ -17,22 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+#  😀About me
 Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electrical & Computer Engineering who loves turning cutting-edge algorithms into tangible robotic systems.
 
 <div class="about-me-content">
-    <p>Over the past few years I have:</p>
-    <ul>
-        <li>Engineered intelligent robots – from a digital-twin barista that brews four coffee styles and draws latte art, to a portable 6-DOF robotic arm that combines machine vision and speech commands for precise pick-and-place tasks.</li>
-        <li>Pushed embedded autonomy – building an autonomous RC car on Raspberry Pi that performs real-time lane tracking, object detection, and conditional stopping, all within a 160 × 120 vision pipeline.</li>
-        <li>Accelerated data-parallel computation – authored a hierarchical CUDA scan and a three-stage flag → scan → scatter pipeline that compacts 400 M-element arrays 83 × faster than a CPU baseline.</li>
-        <li>Troubleshot medical hardware – at Siemens Healthineers, wrote Python automation that cut MRI document-sorting time 82 %, and designed a signal-analysis PCB that reduced cost and size by 90 %.</li>
-    </ul>
     <p>My toolbox spans C/C++, Python, ROS, OpenCV, CUDA, STM32, Linux kernel modules, SPI/I²C/UART, and a healthy curiosity for anything involving sensors and real-time constraints. Whether it’s robotics, embedded AI, or GPU acceleration, I enjoy bridging the gap between elegant code and reliable hardware.</p>
     <p>Current focus: applying embedded ML and edge computing to healthcare and assistive robotics. If you’d like to chat about collaborative projects, internships, or just geek out over motor controllers, feel free to reach out!</p>
 </div>
 
+
+
 # 🔥 News
-- *March 2025*: &nbsp;🎉🎉 Partnered with The Floow on designing a next-generation platform for predictive health analytics and proactive illness prevention. 
+- *Mar 2025*: &nbsp;🎉🎉 Partnered with The Floow on designing a next-generation platform for predictive health analytics and proactive illness prevention. 
 
 # 📝 Publications 
 
