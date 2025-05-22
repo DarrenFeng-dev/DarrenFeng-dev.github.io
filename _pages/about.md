@@ -36,7 +36,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Patent</div>
-    <img src="images/ROPEHANDLE.png" alt="Patent Image" width="100%">
+    <img src="images/ROPEHANDLE.png" alt="Patent Image" width="75%">
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -51,7 +51,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Patent</div>
-    <img src="images/MOBILERobot.png" alt="Patent Image" width="100%">
+    <img src="images/MOBILERobot.png" alt="Patent Image" width="75%">
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -66,7 +66,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Patent</div>
-    <img src="images/LABORATORY.png" alt="Patent Image" width="100%">
+    <img src="images/LABORATORY.png" alt="Patent Image" width="75%">
   </div>
   <div class='paper-box-text' markdown="1">
 
