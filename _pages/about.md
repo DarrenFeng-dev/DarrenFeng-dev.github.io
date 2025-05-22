@@ -33,23 +33,57 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Patent</div>
+    <img src="images/ROPEHANDLE.png" alt="Patent Image" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**ROPE-DRIVEN OPERATION HANDLE**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024087920&_cid=P22-MAZV88-24496-1)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Inventors:** MA Gan, FENG Yongxuan, HUANG Haojia, **FENG Han**, KUANG Shaolong, ZHANG Wenwei  
+*Patent Application Number:* WO2024087920  
+*Filed:* 2024 · *Status:* International Application (PCT)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Patent</div>
+    <img src="images/MOBILERobot.png" alt="Patent Image" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**MOBILE ROBOT END-EFFECTOR POSITIONING STRUCTURE**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024088030&_cid=P22-MAZVJW-31687-1)
+
+**Inventors:** MA Gan, FENG Yongxuan, HUANG Haojia, **FENG Han**, KUANG Shaolong, ZHANG Wenwei  
+*Patent Application Number:* WO2024088030  
+*Filed:* 2024 · *Status:* International Application (PCT)
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Patent</div>
+    <img src="images/LABORATORY.png" alt="Patent Image" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**LABORATORY EQUIPMENT MANAGEMENT SYSTEM AND APPLICATION**](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN403537080&_cid=P22-MAZVOR-34727-1)
+
+**Inventors:** YANG Xu, WU Kelin, MU Keqiang, LIN Jiafeng, **FENG Han**  
+*Publication Number:* CN116452385  
+*Filed:* Apr 2023 · *Published:* Jul 2023 
+</div>
+</div>
+
+
+# 🔬 Projects
 
 # 🎖 Honors and Awards
-- *Sept 2024*  ECE Future Star Scholarship from George R. Brown School of Engineering and Computing, Rice University — $18,000. 
-- *Dec 2023*  Coffee Robot Master development funding — ¥200,000 awarded by WIK Group. 
+- *Sept 2024*  ECE Future Star Scholarship from George R. Brown School of Engineering and Computing, Rice University — **$18,000**. 
+- *Dec 2023*  Coffee Robot Master development funding — **¥200,000** awarded by WIK Group. 
 - *Dec 2022*  Third Prize of Craftsmanship for Outstanding Individual of SZTU in 2021-2022. 
 - *Jul 2022*  Silver Award in the SZTU Trials of the 2022 “Internet+” College Students Innovation and Entrepreneurship Competition. 
 - *Jun 2022* Third Prize in Guangdong Province of the 2022 National College Mechanical Innovation Competition. 
