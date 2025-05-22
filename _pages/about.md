@@ -114,7 +114,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 - Added HSV-based stop-box detection and **YOLOv5** for obstacle/traffic-light recognition.  
 - Integrated **GPIO motor control**, webcam, and optical encoder to synchronize perception and actuation.
 
-  </div>
+</div>
 </div>
 
 <!-- CUDA Hole Compaction -->
@@ -132,7 +132,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 - Demonstrated up to **83× CPU speedup** on 400M-entry datasets with a three-stage `flag → scan → scatter` pipeline.  
 - Validated correctness and optimized memory efficiency for magnetic confinement fusion simulation data.
 
-  </div>
+</div>
 </div>
 
 <!-- Robotic Coffee Master -->
@@ -168,5 +168,5 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 - Simulated motion accuracy and stability in **3ds Max** and **Unity3D** prior to deployment.  
 - Designed a custom **PCB board** using SPI/I²C, with **Raspberry Pi** as coordinator and **STM32** for motor control.
 
-  </div>
+</div>
 </div>
