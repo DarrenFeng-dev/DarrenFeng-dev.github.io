@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi👋, I'm Han Feng(Darren), a Rice University master's student in Electrical & Computer Engineering who loves turning cutting-edge algorithms into tangible robotic systems.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Over the past few years I have: 
+
+My toolbox spans C/C++, Python, ROS, OpenCV, CUDA, STM32, Linux kernel modules, SPI/I²C/UART, and a healthy curiosity for anything involving sensors and real-time constraints. Whether it’s robotics, embedded AI, or GPU acceleration, I enjoy bridging the gap between elegant code and reliable hardware.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -43,16 +44,19 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sept 2024*  ECE Future Star Scholarship from George R. Brown School of Engineering, Rice University — $18,000. 
+- *Dec 2023*  Coffee Robot Master development funding — ¥200,000 awarded by WIK Group. 
+- *Dec 2022*  Third Prize of Craftsmanship for Outstanding Individual of SZTU in 2021-2022. 
+- *Jul 2022*  Silver Award in the SZTU Trials of the 2022 “Internet+” College Students Innovation and Entrepreneurship Competition. 
+- *Jun 2022* Third Prize in Guangdong Province of the 2022 National College Mechanical Innovation Competition. 
+- *Dec 2021* Second Prize of Craftsmanship for Outstanding Individual of SZTU. 
+- *Jun 2021* Bronze Award in the SZTU Trials of the 2021 “Internet+” College Students Innovation and Entrepreneurship Competition. 
+- *Dec 2020* Excellence Award in the 2020 SZTU Entrepreneurship Park Business Proposal Competition. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *Aug 2024 - Dec 2025*, Master in Electrical and Computer Engineering, Rice University, Houston, TX, USA. 
+- *Sept 2020 - Jun 2024*, Bachelor in electronic science and technology, Shenzhen Technology University, Shenzhen, Guangdong, China. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *May 2023 - Oct 2023*, Integration Process Engineer, Siemens Healthineers, Shenzhen, China.
+- *Nov 2020 - Jan 2021*, Research and Development Engineer, Shenzhen Wo'erchuang Technology Co., Ltd. Shenzhen, China.
