@@ -125,7 +125,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Data-Parallel Hole Compaction in CUDA**](#)  
+[**Data-Parallel Hole Compaction in CUDA**](https://github.com/rice-hpc/a4-2025-gpu-hole-compaction-shiroganejunmiyuki)  
 **Role:** Software Engineer  
 **Location:** Houston, Texas, USA | **Apr 2025 – May 2025**  
 - Designed a GPU-based hole-filling algorithm using **CUDA**, **shared memory**, and a recursive **Blelloch scan** to preserve data order in large arrays.  
@@ -143,7 +143,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Robotic Coffee Master**](#)  
+[**Robotic Coffee Master**](https://github.com/DarrenFeng-dev/DarrenFeng-dev.github.io/blob/main/images/coffee master video.mp4)  
 **Role:** Embedded Software Engineer & Manager  
 **Location:** Shenzhen, Guangdong, China | **May 2022 – Sept 2022**  
 - Led the end-to-end development of a robotic barista using **Digital Twin (Real2Sim2Real)** methods to brew 4+ coffee types and draw 6+ latte-art patterns.  
