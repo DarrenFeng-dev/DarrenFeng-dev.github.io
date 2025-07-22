@@ -170,3 +170,8 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 
 </div>
 </div>
+
+
+
+# 📔 Blogs
+-📝 [C/Cpp blog](https://docs.qq.com/doc/DZExFdHpFTG5HVFVQ)  
