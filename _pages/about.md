@@ -142,6 +142,7 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
     <img src="images/coffee-robot.png" alt="Robotic Coffee Master" width="75%">
   </div>
   <div class='paper-box-text' markdown="1">
+  {% capture content %}
 
 [**Robotic Coffee Master**](https://github.com/DarrenFeng-dev/DarrenFeng-dev.github.io/blob/main/images/coffee master video.mp4)  
 **Role:** Embedded Software Engineer & Manager  
@@ -149,6 +150,8 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 - Led the end-to-end development of a robotic barista using **Digital Twin (Real2Sim2Real)** methods to brew 4+ coffee types and draw 6+ latte-art patterns.  
 - Built a 6-DOF kinematics system in **Python + Panda3D**; delivered a live demo and secured **¥200K** in funding.  
 - As project manager, coordinated cross-functional teams, resolved integration issues, and ensured on-time delivery.
+  {% endcapture %}
+  {{ content | markdownify }}
 
   </div>
 </div>
@@ -159,15 +162,18 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
     <div class='badge'>Project</div>
     <img src="images/robotic-arm.png" alt="Robotic Arm Development" width="75%">
   </div>
-  <div class='paper-box-text' markdown="1">
 
-[**Multi-Functional Portable Robotic Arm Development**](#)  
+  <div class='paper-box-text' markdown="1">
+  {% capture content %}
+[**Multi-Functional Portable Robotic Arm Development**]
 **Role:** Embedded Engineer & Project Lead  
 **Location:** Shenzhen, Guangdong, China | **Oct 2023 – May 2024**  
 - Created a vision-enabled robotic arm using **C++**, **Python**, **OpenCV**, **PWM servo control**, **inverse kinematics**, and **PID regulation**.  
 - Simulated motion accuracy and stability in **3ds Max** and **Unity3D** prior to deployment.  
 - Designed a custom **PCB board** using SPI/I²C, with **Raspberry Pi** as coordinator and **STM32** for motor control.
 
+  {% endcapture %}
+  {{ content | markdownify }}
 </div>
 </div>
 
