@@ -181,3 +181,5 @@ Hi 👋, I’m Han Feng(Darren), a Rice University master’s student in Electri
 
 # 📔 Blogs
 -📝 [C/Cpp blog](https://docs.qq.com/doc/DZExFdHpFTG5HVFVQ)  
+-📝 [Object-oriented 面向对象](https://docs.qq.com/doc/DZGpjb2p3bEhDbHFL)  
+-📝 [Operation System 操作系统](https://docs.qq.com/doc/DZFdMekd2cGNkTXFX)  
